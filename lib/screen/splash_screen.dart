@@ -15,8 +15,8 @@ class SplashScreen extends StatelessWidget {
                 const SizedBox(height: 50.0),
                 Image.asset("assets/images/concept-of-remote-team.png"),
                 const SizedBox(height: 15.0),
-                Text("Get The Job", style: TextStyle(fontWeight: FontWeight.w900, fontSize: 25.0)),
-                Text("That You Dream.", style: TextStyle(fontWeight: FontWeight.w900, fontSize: 25.0)),
+                Text("Get The Job", style: TextStyle(fontWeight: FontWeight.w900, fontSize: 25.0, color: Color.fromRGBO(29, 41, 64, 1.0))),
+                Text("That You Dream.", style: TextStyle(fontWeight: FontWeight.w900, fontSize: 25.0, color: Color.fromRGBO(29, 41, 64, 1.0))),
                 const SizedBox(height: 15.0),
                 Container(
                   width: 250,
@@ -30,7 +30,7 @@ class SplashScreen extends StatelessWidget {
                 ElevatedButton(
                   onPressed: () { Navigator.push(context, MaterialPageRoute(builder: (context) => HomeScreen())); },
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.black87,
+                    primary: Color.fromRGBO(29, 41, 64, 1.0),
                     elevation: 5.0,
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(35.0),
