@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Attribution
 <a href="https://iconscout.com/illustrations/concept" target="_blank">Concept of Remote Team Illustration</a> by <a href="https://iconscout.com/contributors/delesign" target="_blank">Delesign Graphics</a>
-
+<a target="_blank" href="https://icons8.com/icon/SSfJ7MRp9qFs/woman">Woman</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
