@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Attribution
+<a href="https://iconscout.com/illustrations/concept" target="_blank">Concept of Remote Team Illustration</a> by <a href="https://iconscout.com/contributors/delesign" target="_blank">Delesign Graphics</a>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
